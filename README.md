@@ -1,7 +1,7 @@
 ### Ícaro Drumond (processo-seletivo-av)
 
 ## Token
-- No arquivo main.js linha:26 tem a variável 'AUTH_TOKEN', bastar adicionar seu token do github nessa variável realizar a autenticação.
+- No arquivo main.js linha:26 tem a variável 'AUTH_TOKEN', bastar adicionar seu token do github nessa variável para realizar a autenticação.
 
 ## Installar as dependencias
 ```
@@ -18,7 +18,7 @@ npm run serve
 npm run build
 ```
 
-### -----------------------------------------------------------------------------------------------------------------------
+### -------------------------------------------------------------------------------------------------------
 ### Processo Seletivo Assessoria VIP
 
 # Lista de repositórios do GitHub
